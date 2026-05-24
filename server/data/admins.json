@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1778842492126",
+    "name": "akhil",
+    "email": "akhil@demo.com",
+    "password": "$2a$10$jNAi31bsvRq4x/jh6f7cJuSRFSBph39tHSOulPrE8daTjhvdCRv/i",
+    "createdAt": "2026-05-15T10:54:52.126Z"
+  },
+  {
+    "id": "1778843082679",
+    "name": "Bhanu Prakash",
+    "email": "gonnabhanuprakashgate2024@gmail.com",
+    "password": "$2a$10$G.CMcn/Oj6NHN9flQ0DcGOeCbz3lq1iUw2cyI/WyAe1vRZ5f4hiZK",
+    "createdAt": "2026-05-15T11:04:42.679Z"
+  }
+]
